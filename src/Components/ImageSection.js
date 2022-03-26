@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import img2 from '../img/img2.JPG';
 import PrimaryButton from './PrimaryButton';
-import Dharani_kumar_Resume from './Dharanikumar_Resume.png'
+import Dharani_kumar_Resume from './Dharani_kumar_Resume.png'
 
 function ImageSection() {
     return (
