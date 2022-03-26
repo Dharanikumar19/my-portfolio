@@ -9,7 +9,7 @@ const portfolios = [
         link3: 'https://zen-class-ticketing-system.netlify.app',
         title: 'Zen Class Ticketing System',
         text: `zen class ticketing system for query solving is a full stack web application with 
-               react-redux for state management,and fully responsive design with student and mentor pannel`
+               react-redux for state management, and fully responsive design with student and mentor pannel`
     },
     {
         id: 2,
@@ -30,7 +30,7 @@ const portfolios = [
         link2: 'https://github.com/Dharanikumar19/Blog-Website-Backend',
         link3: 'https://dk-blog-website.netlify.app',
         title: 'Blog Website',
-        text: `Blog Website is a responsive full stack application, made with MD Bootstarp with google login`
+        text: `Blog Website is a responsive full stack application, made by MD Bootstarp with google login`
     },
     {
         id: 4,

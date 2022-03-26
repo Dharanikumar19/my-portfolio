@@ -2,7 +2,6 @@ import React from 'react'
 import styled from 'styled-components';
 import img2 from '../img/img2.JPG';
 import PrimaryButton from './PrimaryButton';
-import Dharani_kumar_Resume from './Dharani_kumar_Resume.png'
 
 function ImageSection() {
     return (
@@ -39,7 +38,7 @@ function ImageSection() {
                     </div>
                 </div>
                 {/*  eslint-disable-next-line */}
-                <a href={Dharani_kumar_Resume} target="_blank"><PrimaryButton title={'My Cv'} /></a>
+                <a href="https://drive.google.com/file/d/1OHyv8ZqFmdwm0nbegOA1wa2dnE4sSQQO/view" target="_blank"><PrimaryButton title={'My Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )
