@@ -9,7 +9,7 @@ const portfolios = [
         link3: 'https://zen-class-ticketing-system.netlify.app',
         title: 'Zen Class Ticketing System',
         text: `zen class ticketing system for query solving is a full stack web application with 
-               react-redux for state management, with responsive design with student and mentor pannel`
+               react-redux for state management,and fully responsive design with student and mentor pannel`
     },
     {
         id: 2,
