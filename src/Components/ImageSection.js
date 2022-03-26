@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import img2 from '../img/img2.JPG';
 import PrimaryButton from './PrimaryButton';
-import Dharanikumar_Resume from './Dharanikumar_Resume.pdf'
+import Dharani_kumar_Resume from './Dharanikumar_Resume.png'
 
 function ImageSection() {
     return (
@@ -39,7 +39,7 @@ function ImageSection() {
                     </div>
                 </div>
                 {/*  eslint-disable-next-line */}
-                <a href={Dharanikumar_Resume} target="_blank"><PrimaryButton title={'My Cv'} /></a>
+                <a href={Dharani_kumar_Resume} target="_blank"><PrimaryButton title={'My Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )
