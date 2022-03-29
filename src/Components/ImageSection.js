@@ -38,7 +38,7 @@ function ImageSection() {
                     </div>
                 </div>
                 {/*  eslint-disable-next-line */}
-                <a href="https://drive.google.com/file/d/11ebac7Gv2Zow-lYqUBgRUhuR6eC2nPUb/view" target="_blank"><PrimaryButton title={'My Cv'} /></a>
+                <a href="https://drive.google.com/file/d/11ebac7Gv2Zow-lYqUBgRUhuR6eC2nPUb/view?usp=sharing" target="_blank"><PrimaryButton title={'My Cv'} /></a>
             </div>
         </ImageSectionStyled>
     )
