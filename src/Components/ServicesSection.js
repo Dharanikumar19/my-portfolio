@@ -17,13 +17,13 @@ function ServicesSection() {
                         title={'Frontend Development.'} 
                         paragraph={'Programming which focuses on the visual elements of a website or app that a user will interact with (the client side).'}
                     />
-                    <div className="mid-card">
+
                         <ServiceCard 
                             image={design} 
                             title={' BackEnd Development.'} 
                             paragraph={"It is everything that the users don't see and contains behind-the-scenes activities that occur when performing any action on a website."}
                         />
-                    </div>
+                
                     <ServiceCard 
                         image={design} 
                         title={'Database Integration'} 
