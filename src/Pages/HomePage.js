@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components';
 import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GithubIcon from '@material-ui/icons/GitHub';
-import EmailIcon from '@material-ui/icons/Email';
+import CodeIcon from '@material-ui/icons/Code';
 import Particle from '../Components/Particle';
 
 function HomePage() {
@@ -25,8 +25,8 @@ function HomePage() {
                     <a href="https://github.com/Dharanikumar19" target='_blank' rel="noreferrer" className="icon i-github">
                         <GithubIcon />
                     </a>
-                    <a href="https://gmail.com" target='_blank' rel="noreferrer" className="icon i-email">
-                        <EmailIcon />
+                    <a href="https://www.guvi.in/dharanikumarmuthusamy11" target='_blank' rel="noreferrer" className="icon i-email">
+                        <CodeIcon />
                     </a>
                 </div>
             </div>
