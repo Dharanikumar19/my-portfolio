@@ -23,7 +23,7 @@ const portfolios = [
         link3: 'https://dk-e-commerce.netlify.app',
         title: 'Shoppers World',
         text: `An e-commerce shopping website is a responsive full stack web application, with paypal payment gateway,
-         which includes both user and admin pannel, admin email Id =  admin@gmail.com, password = admin`
+         which includes both user and admin pannel`
     },
     {
         id: 3,
