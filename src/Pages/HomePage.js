@@ -74,10 +74,10 @@ const HomePageStyled = styled.header`
                 }
             }
 
-            .i-youtube{
+            .i-email{
                 &:hover{
-                    border: 2px solid red;
-                    color: red;
+                    border: 2px solid #2ab86a;
+                    color: #2ab86a;
                 }
             }
             .i-github{
