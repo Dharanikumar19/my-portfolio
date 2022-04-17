@@ -22,13 +22,15 @@ function Resume() {
                         year={'2022 - Present'} 
                         title={'Completed Full Stack Development course in GUVI'}
                         subTitle={'GUVI Network'}
-                        text={'I have completed 90 days FullStack Web Development course in Guvi Geek Netwokrs, IITM Research Park, Chennai'}
+                        text={'I have completed FullStack Web Development course in Guvi Geek Networks, IITM Research Park, Chennai.'}
+                        link={`Certification Link : ${`https://www.guvi.in/certificate?id=w12100TV19OY4567g1`}`}
                     />
                     <ResumeItem 
                         year={'Sep - 2021'} 
                         title={'Completed Full Stack Development course in Udemy '}
                         subTitle={'Udemy'}
-                        text={'I have completed a Fullstack Web development course in Udemy with Certification, which has covered all topics, tools and technologies with a total of 70 Hours.'} 
+                        text={'I have completed Fullstack Web development course in Udemy with Certification, which has covered all topics, tools and technologies with a total of 70 Hours.'}
+                        link={`Certification Link : ${`https://www.udemy.com/certificate/UC-39642c54-faa1-4368-9836-ec4c7b2a479e`}`} 
                     />
                     <ResumeItem 
                         year={'2015 - 2019'} 
