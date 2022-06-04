@@ -19,7 +19,7 @@ function HomePage() {
                  I build complete applications, from frontend to backend, and love doing it. Don't hesitate to get in touch !
                 </p>
                 <div className="icons">
-                    <a href="https://www.linkedin.com/in/dharani-kumar-muthusamy-781a8118b/" rel="noreferrer" target='_blank' className="icon i-linkedIn">
+                    <a href="https://www.linkedin.com/in/dharani-kumar-781a8118b/" rel="noreferrer" target='_blank' className="icon i-linkedIn">
                         <LinkedInIcon />
                     </a>
                     <a href="https://github.com/Dharanikumar19" target='_blank' rel="noreferrer" className="icon i-github">
